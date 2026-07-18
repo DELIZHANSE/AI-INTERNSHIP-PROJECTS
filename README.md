@@ -1,2 +1,2 @@
 # AI-INTERNSHIP-PROJECTS
-These are the Projects i did on Machine Learning
+These are the Projects i did on Machine Learning during my online internship!!
